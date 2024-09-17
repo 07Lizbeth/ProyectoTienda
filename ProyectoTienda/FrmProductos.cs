@@ -45,6 +45,7 @@ namespace ProyectoTienda
                     break;
                 case 5:
                     {
+                        mp.Borrar(productos);
                         Actualizar();
                     }
                     break;
