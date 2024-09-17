@@ -15,7 +15,8 @@ namespace Manejadores
         Grafico g = new Grafico();
         public void Actualizar(dynamic Entidad)
         {
-            throw new NotImplementedException();
+            ap.Actualizar(Entidad);
+            g.Mensaje("Producto actualizado", "¡atecion¡", MessageBoxIcon.Information);
         }
 
         public void Borrar(dynamic Entidad)

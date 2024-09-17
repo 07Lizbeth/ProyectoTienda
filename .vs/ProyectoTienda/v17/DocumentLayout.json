@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7900509F-1462-4A20-A079-D1F139F2AAEB}|Manejadores\\Manejadores.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\manejadores\\manejadorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7900509F-1462-4A20-A079-D1F139F2AAEB}|Manejadores\\Manejadores.csproj|solutionrelative:manejadores\\manejadorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA34D76B-8BFB-46EF-8034-9E90B0FC6D78}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\norma\\escritorio\\proyectotienda\\accesodatos\\accesoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA34D76B-8BFB-46EF-8034-9E90B0FC6D78}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\proyectotienda\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|solutionrelative:proyectotienda\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7900509F-1462-4A20-A079-D1F139F2AAEB}|Manejadores\\Manejadores.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\manejadores\\manejadorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7900509F-1462-4A20-A079-D1F139F2AAEB}|Manejadores\\Manejadores.csproj|solutionrelative:manejadores\\manejadorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Productos.cs",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\Entidades\\Productos.cs",
               "RelativeDocumentMoniker": "Entidades\\Productos.cs",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccesoProductos.cs",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\AccesoDatos\\AccesoProductos.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\AccesoProductos.cs",
@@ -67,19 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ManejadorProductos.cs",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\Manejadores\\ManejadorProductos.cs",
               "RelativeDocumentMoniker": "Manejadores\\ManejadorProductos.cs",
               "ToolTip": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\Manejadores\\ManejadorProductos.cs",
               "RelativeToolTip": "Manejadores\\ManejadorProductos.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCUAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBIAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:51:14.991Z"
+              "WhenOpened": "2024-09-17T02:51:14.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmProductos.cs",
               "RelativeDocumentMoniker": "ProyectoTienda\\FrmProductos.cs",
@@ -90,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FrmProductos.cs",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmProductos.cs",
               "RelativeDocumentMoniker": "ProyectoTienda\\FrmProductos.cs",
@@ -102,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmAddProductos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmAddProductos.cs",
               "RelativeDocumentMoniker": "ProyectoTienda\\FrmAddProductos.cs",
@@ -113,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmAddProductos.cs",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmAddProductos.cs",
               "RelativeDocumentMoniker": "ProyectoTienda\\FrmAddProductos.cs",
