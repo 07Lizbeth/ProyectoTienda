@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|c:\\users\\norma\\escritorio\\proyectotienda\\proyectotienda\\frmaddproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA34D76B-8BFB-46EF-8034-9E90B0FC6D78}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\norma\\escritorio\\proyectotienda\\accesodatos\\accesoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA34D76B-8BFB-46EF-8034-9E90B0FC6D78}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\proyectotienda\\frmaddproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|solutionrelative:proyectotienda\\frmaddproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|c:\\users\\norma\\escritorio\\proyectotienda\\proyectotienda\\frmaddproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\proyectotienda\\frmaddproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|solutionrelative:proyectotienda\\frmaddproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|c:\\users\\norma\\escritorio\\proyectotienda\\proyectotienda\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\proyectotienda\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|solutionrelative:proyectotienda\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA34D76B-8BFB-46EF-8034-9E90B0FC6D78}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\norma\\escritorio\\proyectotienda\\accesodatos\\accesoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA34D76B-8BFB-46EF-8034-9E90B0FC6D78}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7E71B03-13CC-417A-8E23-18836B71E382}|Entidades\\Entidades.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7E71B03-13CC-417A-8E23-18836B71E382}|Entidades\\Entidades.csproj|solutionrelative:entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|c:\\users\\norma\\escritorio\\proyectotienda\\proyectotienda\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\proyectotienda\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF391208-7BD6-42CA-8B16-C00AD0AC465A}|ProyectoTienda\\ProyectoTienda.csproj|solutionrelative:proyectotienda\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7900509F-1462-4A20-A079-D1F139F2AAEB}|Manejadores\\Manejadores.csproj|c:\\users\\norma\\escritorio\\proyectotienda\\manejadores\\manejadorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7900509F-1462-4A20-A079-D1F139F2AAEB}|Manejadores\\Manejadores.csproj|C:\\Users\\norma\\Escritorio\\ProyectoTienda\\manejadores\\manejadorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7900509F-1462-4A20-A079-D1F139F2AAEB}|Manejadores\\Manejadores.csproj|solutionrelative:manejadores\\manejadorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -50,18 +50,17 @@
               "RelativeToolTip": "Entidades\\Productos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:40:24.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T02:40:24.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AccesoProductos.cs",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\AccesoDatos\\AccesoProductos.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\AccesoProductos.cs",
               "ToolTip": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\AccesoDatos\\AccesoProductos.cs",
               "RelativeToolTip": "AccesoDatos\\AccesoProductos.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAywB8AAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T02:49:27.817Z",
               "EditorCaption": ""
@@ -76,20 +75,18 @@
               "RelativeToolTip": "Manejadores\\ManejadorProductos.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAgwCUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:51:14.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T02:51:14.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmProductos.cs",
               "RelativeDocumentMoniker": "ProyectoTienda\\FrmProductos.cs",
               "ToolTip": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmProductos.cs [Dise\u00F1o]",
               "RelativeToolTip": "ProyectoTienda\\FrmProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:55:02.301Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-17T02:55:02.301Z"
             },
             {
               "$type": "Document",
@@ -101,24 +98,22 @@
               "RelativeToolTip": "ProyectoTienda\\FrmProductos.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAApwBsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:55:04.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T02:55:04.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAddProductos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmAddProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoTienda\\FrmAddProductos.cs",
+              "ToolTip": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmAddProductos.cs [Design]",
+              "RelativeToolTip": "ProyectoTienda\\FrmAddProductos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:59:21.331Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmAddProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmAddProductos.cs",
-              "RelativeDocumentMoniker": "ProyectoTienda\\FrmAddProductos.cs",
-              "ToolTip": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmAddProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoTienda\\FrmAddProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:59:21.331Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FrmAddProductos.cs",
               "DocumentMoniker": "C:\\Users\\norma\\Escritorio\\ProyectoTienda\\ProyectoTienda\\FrmAddProductos.cs",
               "RelativeDocumentMoniker": "ProyectoTienda\\FrmAddProductos.cs",
@@ -126,8 +121,7 @@
               "RelativeToolTip": "ProyectoTienda\\FrmAddProductos.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAowBwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:59:23.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T02:59:23.089Z"
             }
           ]
         }

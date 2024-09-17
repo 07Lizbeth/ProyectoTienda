@@ -13,7 +13,8 @@ namespace AccesoDatos
         ConectarBD b = new ConectarBD("localhost", "root", "", "tienda");
         public void Actualizar(dynamic Entidad)
         {
-            throw new NotImplementedException();
+            b.Comando(string.Format("call modificar({0},'{1}','{2}',{3})", Entidad.IdProducto, Entidad.Nombre,
+                Entidad.Descripcion, Entidad.Precio));
         }
 
         public void Borrar(dynamic Entidad)
