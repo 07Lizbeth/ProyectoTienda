@@ -19,7 +19,7 @@ namespace AccesoDatos
 
         public void Borrar(dynamic Entidad)
         {
-            throw new NotImplementedException();
+            b.Comando(string.Format("call eliminar({0})", Entidad.IdProducto));
         }
 
         public void Guardar(dynamic Entidad)
