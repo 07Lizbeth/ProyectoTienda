@@ -21,7 +21,10 @@ namespace Manejadores
 
         public void Borrar(dynamic Entidad)
         {
-            throw new NotImplementedException();
+            DialogResult rs = MessageBox.Show(string.Format("Estas seguro de borrar: {0}", Entidad.Nombre), "!Atencion!", MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question);
+            if (rs == DialogResult.Yes)
+                ap.Borrar(Entidad);
         }
 
         public void Guardar(dynamic Entidad)
