@@ -25,7 +25,40 @@ namespace ProyectoTienda
 
         private void btnActualizar_Click(object sender, EventArgs e)
         {
+            Actualizar();
+        }
+        void Actualizar()
+        {
             mp.Mostrar(dgvProductos);
+        }
+
+        private void dgvProductos_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            switch (col)
+            {
+                case 4:
+                    {
+                        FrmAddProductos fap = new FrmAddProductos();
+                        fap.ShowDialog();
+                        Actualizar();
+                    }
+                    break;
+                case 5:
+                    {
+                        Actualizar();
+                    }
+                    break;
+            }
+        }
+
+        private void dgvProductos_CellEnter(object sender, DataGridViewCellEventArgs e)
+        {
+            fila = e.RowIndex;
+            col = e.ColumnIndex;
+            productos.IdProducto = int.Parse(dgvProductos.Rows[fila].Cells[0].Value.ToString());
+            productos.Nombre = dgvProductos.Rows[fila].Cells[1].Value.ToString();
+            productos.Descripcion = dgvProductos.Rows[fila].Cells[2].Value.ToString();
+            productos.Precio = double.Parse(dgvProductos.Rows[fila].Cells[3].Value.ToString());
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)

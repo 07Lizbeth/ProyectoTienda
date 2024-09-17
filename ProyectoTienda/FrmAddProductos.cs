@@ -20,13 +20,28 @@ namespace ProyectoTienda
         {
             InitializeComponent();
             mp = new ManejadorProductos();
+            if (FrmProductos.productos.IdProducto > 0)
+            {
+                txtNombre.Text = FrmProductos.productos.Nombre;
+                txtDescripcion.Text = FrmProductos.productos.Descripcion;
+                txtPrecio.Text = FrmProductos.productos.Precio.ToString();
+            }
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            mp.Guardar(new Productos(FrmProductos.productos.IdProducto, txtNombre.Text, txtDescripcion.Text,
+            if (FrmProductos.productos.IdProducto > 0)
+            {
+                mp.Actualizar(new Productos(FrmProductos.productos.IdProducto, txtNombre.Text, txtDescripcion.Text,
+                    double.Parse(txtPrecio.Text)));
+                Close();
+            }
+            else
+            {
+                mp.Guardar(new Productos(FrmProductos.productos.IdProducto, txtNombre.Text, txtDescripcion.Text,
                 double.Parse(txtPrecio.Text)));
-            Close();
+                Close();
+            }
         }
     }
 }
